@@ -9,7 +9,7 @@ PetMind sells products that are a mix of luxury items and everyday items. Luxury
 The company wants to increase sales by selling more everyday products repeatedly. They have been testing this approach for the last year.
 They now want a report on how repeat purchases impact sales.
 
-The dataset contains 1500 records and 8 variables. More on the variables can be found [here](https://github.com/ssarrayya/datacamp-associate-certification/blob/main/Practical%2B-%2BDAA%2B-%2BPet%2BSupplies%2B-%2B2212.pdf)
+The dataset contains 1500 records and 8 variables. More on the variables can be found [here](https://github.com/ElishaVeriwa/datacamp-associate-certification/blob/main/Practical%2B-%2BDAA%2B-%2BPet%2BSupplies%2B-%2B2212.pdf)
 
 
 ### Tasks
