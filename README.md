@@ -4,10 +4,7 @@
 
 ### Background
 
-PetMind is a retailer of products for pets. They are based in the United States.  
-PetMind sells products that are a mix of luxury items and everyday items. Luxury items include toys. Everyday items include food.  
-The company wants to increase sales by selling more everyday products repeatedly. They have been testing this approach for the last year.
-They now want a report on how repeat purchases impact sales.
+PetMind is a retailer of products for pets. They are based in the United States. PetMind sells products that are a mix of luxury items and everyday items. Luxury items include toys. Everyday items include food. The company wants to increase sales by selling more everyday products repeatedly. They have been testing this approach for the last year. They now want a report on how repeat purchases impact sales.
 
 The dataset contains 1500 records and 8 variables. More on the variables can be found [here](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate/blob/main/Practical%2B-%2BDAA%2B-%2BPet%2BSupplies%2B-%2B2212.pdf)
 
