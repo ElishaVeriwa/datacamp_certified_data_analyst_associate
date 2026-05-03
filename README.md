@@ -12,7 +12,7 @@ They now want a report on how repeat purchases impact sales.
 The dataset contains 1500 records and 8 variables. More on the variables can be found [here](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate/datacamp_certified_data_analyst_associate/Practical%2B-%2BDAA%2B-%2BPet%2BSupplies%2B-%2B2212.pdf)
 
 
-### Tasks
+### Tasks!
 
 1. For every column in the data:
     - State whether the values match the description given in the table above.
@@ -24,7 +24,6 @@ The dataset contains 1500 records and 8 variables. More on the variables can be 
 3. Describe the distribution of all of the sales. Your answer must include a visualization that shows the distribution.
 4. Describe the relationship between repeat purchases and sales. Your answer must include a visualization to demonstrate the relationship.
 
-
-The review process took 1 week from the submission date. Here's my certification :)
-![Author's DataCamp Data Analyst Associate Certification](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate/Certification.jpg) 
+📦
+![Author's DataCamp Data Analyst Associate Certification](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate/blob/main/Certification.jpg)
 
